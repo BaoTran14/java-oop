@@ -22,6 +22,6 @@ public class Bmw extends Car {
 
     @Override
     public void tyre() {
-        System.out.println("BMW uses Bridgestone tyre");
+        System.out.println("BMW uses Bridgestone tyres");
     }
 }
